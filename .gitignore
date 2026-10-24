@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 agent-loop/traces/
 agent-loop/workspace/notes.jsonl
+scratch_test.py
